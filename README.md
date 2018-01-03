@@ -1,5 +1,6 @@
 % CircleGameMatlab.m
 % Graph of a hand doing a fucking circle
+
 % Made by Tomás Candia Balmaceda
 % Aerospace Engineering Student in Universidad de Concepción, Chile
 % It's not a fancy code, they are only coordinates, but it works, so fuck it
