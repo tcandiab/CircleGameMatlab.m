@@ -3,7 +3,7 @@
 
 % Made by Tomás Candia Balmaceda
 % Aerospace Engineering Student in Universidad de Concepción, Chile
-% It's not a fancy code, they are only coordinates, but it works, so fuck it
+% It's not a fancy code, they are only coordinates, but it works, so fuck it, I'm not a MATLAB PhD or a wizard
 % Made for fun and to fuck up my friends
 % Any comments, or compliments, job offers or your nudes, send them to tcandia@udec.cl or my instagram @tcbalmaceda, or my facebook page, I don't know, I expect nothing
 
